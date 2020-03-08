@@ -1,0 +1,7 @@
+# Derechos de propiedad
+
+Este documento contiene información sobre NovoPayment, sus subsidiarias, filiales, y/o aliados comerciales, la cual es confidencial, privada, de propiedad exclusiva de NovoPayment y constituye propiedad intelectual que conforma un valioso activo para la misma.
+Al recibir este documento, cada receptor y/o lector acepta que la información contenida aquí tiene tal carácter, teniendo la obligación de no divulgarla, debiendo mantener la confidencialidad de la misma, asegurando igualmente que sus subsidiarias, filiales, representantes y/o cualquier tercero relacionado, no la divulguen y mantengan su confidencialidad.
+Adicionalmente, no se debe utilizar ni duplicar, en todo o en parte, la información contenida en este documento, sin el previo consentimiento por escrito de NovoPayment, tampoco puede ser utilizada en perjuicio de NovoPayment o cualquiera de sus subsidiarias, filiales y/o aliados comerciales.
+Como parte de esta obligación, cada receptor y/o lector se compromete a tomar las medidas razonables necesarias para garantizar que la información, o cualquier parte de la misma, no sea utilizada, revelada o divulgada por el mismo receptor, lector y/o cualquier otra persona no autorizada.
+Este documento, incluyendo todos los materiales presentados por o en nombre de NovoPayment, no pueden ser reproducidos, publicados, transmitidos electrónicamente o de cualquier otra forma, ni modificados sin el consentimiento previo por escrito de NovoPayment.

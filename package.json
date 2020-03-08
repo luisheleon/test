@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.3.1",
+    "vuepress": "^1.3.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": {
+    "name": "NovoPayment Inc.",
+    "url": "https://novopayment.com/"
+  },
+  "contributors": [
+      {
+          "name": "Luis Hernandez",
+          "email": "lhernandez@novopayment.com"
+      }
+  ]
+}
