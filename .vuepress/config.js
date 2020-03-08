@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Tokenization',
     description: 'Just playing around',
+    base:"/test/",
     head: [
         ['meta', { charset: 'utf-8' }],
         ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
